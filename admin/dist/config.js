@@ -1,0 +1,1 @@
+var VUE_APP_BASE_API = "http://59.110.140.74:11000";
